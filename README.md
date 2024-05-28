@@ -1,4 +1,6 @@
 # film-review-classification
+This is an implementation of analysing the effect of different hyperparameter and model architecture on sentimetal analysis.
+
 
 ## Dataset Preparation
 
